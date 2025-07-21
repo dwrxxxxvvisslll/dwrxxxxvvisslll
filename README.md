@@ -7,7 +7,7 @@
 🌱 I'm currently learning **advanced AI/ML techniques and cloud architecture**<br>
 👯 I'm looking to collaborate on **open source projects and startup ideas**<br>
 💬 Ask me about **React Native, Laravel, Vue.js, or chatbot development**<br>
-📫 How to reach me: **[anotherofwira@gmail.com]**<br>
+📫 How to reach me: **[anotherofwira@gmail.com](mailto:anotherofwira@gmail.com)**<br>
 ⚡ Fun fact: **I love turning coffee into code! ☕→💻**
 
 ## 🌐 Socials:
