@@ -11,10 +11,9 @@
 ⚡ Fun fact: **I love turning coffee into code! ☕→💻**
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/yourusername) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yourusername) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/yourusername) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/dvvraaa) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dwraputra.dev) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dwraputradev/) 
 
 # 💻 Tech Stack:
 
@@ -78,11 +77,57 @@
 
 </div>
 
+## 🎯 Current Focus
+
+  
+```javascript
+class Developer {
+    constructor() {
+        this.name = "Wiradana Putra";
+        this.role = "Full Stack Developer";
+        this.languages = ["HTML5", "JavaScript", "TypeScript", "Python", "Java", "C++"];
+        this.frameworks = ["React Native", "Laravel", "Vue.js", "Rasa"];
+    }
+
+    getCurrentWork() {
+        return {
+            learning: ["Advanced React Patterns", "Cloud Architecture", "AI/ML"],
+            building: ["Mobile Apps", "Web Applications", "Chatbots"],
+            collaborating: ["Open Source Projects", "Startup Ideas"],
+            goals: ["Tech Community Building", "Innovation in AI"]
+        };
+    }
+
+    getDailyRoutine() {
+        return [
+            "☕ Coffee first",
+            "💻 Code awesome projects", 
+            "📚 Learn new technologies",
+            "🤝 Connect with developers",
+            "🚀 Deploy something cool"
+        ];
+    }
+
+    getLifePhilosophy() {
+        return "Code with passion, learn with curiosity, share with generosity! 🌟";
+    }
+}
+
+const me = new Developer();
+console.log(me.getCurrentWork());
+```
+
+</div>
+
+## 📈 Activity Graph
 <div align="center">
-  <img src="https://github.com/dwrxxxxvvisslll/dwrxxxxvvisslll/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  
+[![dwrxxxxvvisslll's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dwrxxxxvvisslll&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
 
 ---
 <div align="center">
-  <i>⭐️ From <a href="https://github.com/dwrxxxxvvisslll">dwrxxxxvvisslll</a></i>
+  <b> Thanks for visiting my profile! </b><br/>
+  <i>Let's connect and build something amazing together! </i>
 </div>
